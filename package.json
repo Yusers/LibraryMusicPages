@@ -1,0 +1,25 @@
+{
+    "name": "librarymusicpage",
+    "version": "1.0.0",
+    "description": "create libraryMusicPage",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect ./index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com./Yusers/LibraryMusicPages.git"
+    },
+    "keywords": [
+        "Pages",
+        "Music",
+        "YoutubeMusic"
+    ],
+    "author": "yusers",
+    "license": "ISC",
+    "devDependencies": {
+        "expressjs": "^1.0.1",
+        "nodemon": "^2.0.20"
+    }
+}
